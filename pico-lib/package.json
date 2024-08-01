@@ -1,0 +1,15 @@
+{
+  "urls": [
+    ["filefifo.py", "http://localhost:8000/filefifo.py"],	
+    ["fifo.py", "http://localhost:8000/fifo.py"],
+    ["led.py", "http://localhost:8000/led.py"],
+    ["piotimer.py", "http://localhost:8000/piotimer.py"],
+    ["ssd1306.mpy", "http://localhost:8000/ssd1306.mpy"],
+    ["umqtt/simple.mpy", "http://localhost:8000/umqtt/simple.mpy"]
+  ],
+  "deps": [
+  ],
+  "version": "0.1"
+}
+
+{'status': 'ok', 'analysis': {'rmssd_ms': 42.90517, 'artefact_level': 'GOOD', 'pns_index': -0.3011305, 'sd2_ms': 31.7047, 'artefact': 0.0, 'mean_rr_ms': 805.0, 'mean_hr_bpm': 74.53416, 'freq_domain': {'LF_power_prc': 21.00563, 'tot_power': 836.9012, 'HF_peak': 0.1966667, 'LF_power_nu': 21.41622, 'VLF_power': 16.04525, 'LF_peak': 0.15, 'LF_power': 175.7964, 'HF_power_nu': 78.4376, 'VLF_power_prc': 1.917222, 'HF_power': 643.8597, 'HF_power_prc': 76.93377, 'VLF_peak': 0.04, 'LF_HF_power': 0.2730352}, 'create_timestamp': '2024-04-15T13:57:25.060308+00:00', 'sd1_ms': 31.17043, 'respiratory_rate': None, 'readiness': 62.5, 'sns_index': 1.767119, 'sdnn_ms': 30.65533, 'stress_index': 18.45491}}
